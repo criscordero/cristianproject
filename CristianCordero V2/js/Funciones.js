@@ -2,9 +2,9 @@ $(document).ready(function(){
 
 
 	//setTimeout("alert('hello')",500);
-	setTimeout(function(){
-			$(".back-to-top").toggle(700)
-	},1000);
+	// setTimeout(function(){
+	//	$(".back-to-top").toggle(700)
+	// },1000);
 
 
 	//setTimeout(function(){
